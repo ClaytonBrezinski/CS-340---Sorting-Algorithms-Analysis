@@ -1,5 +1,5 @@
 #ifndef MAIN_CPP
-#define MAIN_CPP
+#define MAIN_CPP 
 
 #include "Header.h"
 

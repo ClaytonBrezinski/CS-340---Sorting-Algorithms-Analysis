@@ -1,7 +1,7 @@
 #ifndef OTHERFUNCTIONS_CPP
 #define OTHERFUNCTIONS_CPP
 #include "Header.h"
-
+ 
 void nullArray(int generateArray[])
 {
 	for (int i = 0; i < MAX_ARRAY_SIZE; i++)
